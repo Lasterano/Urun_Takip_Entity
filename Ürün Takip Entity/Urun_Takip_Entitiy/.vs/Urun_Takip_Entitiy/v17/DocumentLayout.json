@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|c:\\users\\bora\\onedrive\\masa\u00FCst\u00FC\\bora e\u011Fitim\\gelece\u011Fi yazanlar visual form e\u011Fitim\\ders 4\\\u00FCr\u00FCn takip entity\\urun_takip_entitiy\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|c:\\users\\bora\\onedrive\\masa\u00FCst\u00FC\\bora e\u011Fitim\\gelece\u011Fi yazanlar visual form e\u011Fitim\\ders 4\\\u00FCr\u00FCn takip entity\\urun_takip_entitiy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|c:\\users\\bora\\onedrive\\masa\u00FCst\u00FC\\bora e\u011Fitim\\gelece\u011Fi yazanlar visual form e\u011Fitim\\ders 4\\\u00FCr\u00FCn takip entity\\urun_takip_entitiy\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739D173A-5D06-42B5-8DCE-A254CE1AC713}|Urun_Takip_Entitiy.csproj|solutionrelative:frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:05:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-09T23:36:16.019Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:45:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:45:44.958Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm\u0130statistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Frm\u0130statistik.cs",
+              "RelativeDocumentMoniker": "Frm\u0130statistik.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Frm\u0130statistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Frm\u0130statistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:42:35.898Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:42:35.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm\u0130statistik.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Frm\u0130statistik.cs",
+              "RelativeDocumentMoniker": "Frm\u0130statistik.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\Frm\u0130statistik.cs",
+              "RelativeToolTip": "Frm\u0130statistik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:42:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmUrun.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\FrmUrun.cs",
+              "RelativeDocumentMoniker": "FrmUrun.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\FrmUrun.cs",
+              "RelativeToolTip": "FrmUrun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:42:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmUrun.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\FrmUrun.cs",
+              "RelativeDocumentMoniker": "FrmUrun.cs",
+              "ToolTip": "C:\\Users\\Bora\\OneDrive\\Masa\u00FCst\u00FC\\Bora E\u011Fitim\\Gelece\u011Fi Yazanlar Visual Form E\u011Fitim\\Ders 4\\\u00DCr\u00FCn Takip Entity\\Urun_Takip_Entitiy\\FrmUrun.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmUrun.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:42:35.904Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

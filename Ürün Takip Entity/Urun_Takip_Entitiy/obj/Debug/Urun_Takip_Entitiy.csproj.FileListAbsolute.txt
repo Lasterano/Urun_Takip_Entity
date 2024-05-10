@@ -1,0 +1,51 @@
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.exe.config
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.exe
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.pdb
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.dll
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.xml
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.AssemblyReference.cache
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.Properties.Resources.resources
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.GenerateResource.cache
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.CoreCompileInputs.cache
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.CopyComplete
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.exe
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.pdb
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.FrmMusteriler.resources
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.FrmUrun.resources
+D:\Bora\Desktop\Geleceği Yazanlar Visual Form Eğitim\Ders 3\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.Frmİstatistik.resources
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.exe.config
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.exe
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.pdb
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.dll
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.xml
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.AssemblyReference.cache
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.FrmMusteriler.resources
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.FrmUrun.resources
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.Frmİstatistik.resources
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.Properties.Resources.resources
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.GenerateResource.cache
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.CoreCompileInputs.cache
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Tak.0FB09599.Up2Date
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.exe
+D:\Bora\Desktop\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.pdb
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.exe.config
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.exe
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\Urun_Takip_Entitiy.pdb
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.dll
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.xml
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.AssemblyReference.cache
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.FrmMusteriler.resources
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.FrmUrun.resources
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.Frmİstatistik.resources
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.Properties.Resources.resources
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.GenerateResource.cache
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.csproj.CoreCompileInputs.cache
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Tak.0FB09599.Up2Date
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.exe
+C:\Users\Bora\OneDrive\Masaüstü\Bora Eğitim\Geleceği Yazanlar Visual Form Eğitim\Ders 4\Ürün Takip Entity\Urun_Takip_Entitiy\obj\Debug\Urun_Takip_Entitiy.pdb
